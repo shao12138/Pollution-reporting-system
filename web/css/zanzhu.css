@@ -1,0 +1,102 @@
+body {
+	margin: 0;
+	padding: 0;
+	width: 1900px;
+	height: 1100px;
+	background-image: url(../img/beijing.jpg);
+	background-repeat: no-repeat;
+	background-size: 100% 100%;
+}
+
+.first {
+	margin: 0px auto;
+	text-align: center;
+}
+
+.first img {
+	width: 1200px;
+	height: 200px;
+}
+
+.second {
+	margin: 0px auto;
+	width: 1200px;
+	height: 800px;
+}
+
+.second-right {
+	background-size: 100% 100%;
+	float: left;
+	width: 1050px;
+	height: 755px;
+	position: relative;
+}
+
+.second-right form fieldset {
+	position: absolute;
+	left: 550px;
+	top: 357px;
+	width: 200px;
+	text-align: center;
+}
+
+.third {
+	margin: 0px auto;
+	text-align: center;
+	width: 1200px;
+	height: 80px;
+	color: blue;
+	font-size: 20px;
+	font-weight: bold;
+}
+
+.second-left {
+	width: 148px;
+	padding: 0px;
+	background-image: linear-gradient(#cbfbb0 2%, #54f1d6);
+	opacity: 0.8;
+	float: left;
+	border: 1px blue solid;
+}
+
+.second-left a {
+	color: #064afd;
+	margin: 0px auto;
+	font-size: 26px;
+	text-align: center;
+	line-height: 90px;
+}
+
+.class2 {
+	margin: 0px auto;
+	padding: 0px;
+	width: 1050px;
+	border: 1px solid blue;
+}
+
+.class1 {
+	margin: 0px auto;
+	padding: 0px;
+	border: 1px solid blue;
+	color: blue;
+	font-size: 25px;
+	font-weight: bold;
+	width: 1050px;
+	height: 250px;
+	background-image: url(../img/zanzhu.jpg);
+	background-repeat: no-repeat;
+	background-size: 100% 100%;
+}
+
+.second-left table {
+	text-align: center;
+}
+
+a:link {
+	text-decoration: none;
+}
+
+a:hover {
+	text-decoration: none;
+	color: white;
+}

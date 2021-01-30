@@ -1,0 +1,15 @@
+body {
+	margin: 0;
+	padding: 0;
+	width: 980px;
+	height: 1742px;
+	background-image: url(../img/wuranbeijing.jpg);
+	background-repeat: no-repeat;
+	background-size: 100% 100%;
+}
+
+.second {
+	margin: 0px auto;
+	width: 980px;
+	height: 1742px;
+}

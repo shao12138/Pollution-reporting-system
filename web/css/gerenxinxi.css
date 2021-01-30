@@ -1,0 +1,86 @@
+body {
+	margin: 0;
+	padding: 0;
+	width: 1900px;
+	height: 1100px;
+	background-image: url(../img/beijing.jpg);
+	background-repeat: no-repeat;
+	background-size: 100% 100%;
+}
+
+.first {
+	margin: 0px auto;
+	text-align: center;
+}
+
+.first img {
+	width: 1200px;
+	height: 200px;
+}
+
+.second {
+	margin: 0px auto;
+	width: 1200px;
+	height: 800px;
+}
+
+.third {
+	margin: 0px auto;
+	text-align: center;
+	width: 1200px;
+	height: 80px;
+	color: blue;
+	font-size: 20px;
+	font-weight: bold;
+}
+
+.second-left {
+	width: 148px;
+	padding: 0px;
+	background-image: linear-gradient(#cbfbb0 2%, #54f1d6);
+	opacity: 0.8;
+	float: left;
+	border: 1px blue solid;
+}
+
+.second-right {
+	float: left;
+	width: 1050px;
+	display: inline;
+	height: 755px;
+	position: relative;
+	background-image: url(../img/gerenxinxibeijing.jpg);
+	background-repeat: no-repeat;
+	background-size: 100% 100%;
+}
+
+.second-left a {
+	color: #064afd;
+	margin: 0px auto;
+	font-size: 26px;
+	text-align: center;
+	line-height: 90px;
+}
+
+.second-left table {
+	text-align: center;
+}
+
+a:link {
+	text-decoration: none;
+}
+
+a:hover {
+	text-decoration: none;
+	color: white;
+}
+
+.table3 {
+	margin: 0 auto;
+	font-size: 23px;
+	color: blue;
+}
+
+.table3 td {
+	border: 1px dashed blue;
+}

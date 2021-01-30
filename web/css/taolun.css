@@ -1,0 +1,83 @@
+body {
+	margin: 0;
+	padding: 0;
+	width: 1900px;
+	height: 1100px;
+	background-image: url(../img/beijing.jpg);
+	background-repeat: no-repeat;
+	background-size: 100% 100%;
+}
+
+.first {
+	margin: 0px auto;
+	text-align: center;
+}
+
+.first img {
+	width: 1200px;
+	height: 200px;
+}
+
+.second {
+	margin: 0px auto;
+	width: 1200px;
+	height: 800px;
+	padding: 0px;
+}
+
+.third {
+	margin: 0px auto;
+	text-align: center;
+	width: 1200px;
+	height: 80px;
+	color: blue;
+	font-size: 20px;
+	font-weight: bold;
+	padding: 0px;
+}
+
+.second-right {
+	float: left;
+	width: 1050px;
+	height: 755px;
+	padding: 0px;
+	position: relative;
+}
+
+.second-left {
+	width: 148px;
+	padding: 0px;
+	background-image: linear-gradient(#cbfbb0 2%, #54f1d6);
+	opacity: 0.8;
+	float: left;
+	border: 1px blue solid;
+}
+
+.second-left a {
+	color: #064afd;
+	margin: 0px auto;
+	font-size: 26px;
+	text-align: center;
+	line-height: 90px;
+}
+
+.message {
+	overflow: auto;
+	width: 1050px;
+	height: 390px;
+	background: url(../img/taolun.jpg);
+	background-size: 100% 100%;
+}
+
+.second-left table {
+	text-align: center;
+}
+
+a:link {
+	text-decoration: none;
+}
+
+a:hover {
+	text-decoration: none;
+	color: white;
+}

@@ -1,0 +1,78 @@
+body {
+	margin: 0;
+	padding: 0;
+	width: 1900px;
+	height: 1100px;
+	background-image: url(../img/beijing.jpg);
+	background-repeat: no-repeat;
+	background-size: 100% 100%;
+}
+
+.first {
+	margin: 0px auto;
+	text-align: center;
+}
+
+.first img {
+	width: 1200px;
+	height: 200px;
+}
+
+.second {
+	margin: 0px auto;
+	width: 1200px;
+	height: 800px;
+}
+
+.second-right p {
+	border: 2px greenyellow solid;
+	background: yellow;
+	padding: 6.5px;
+	margin: 0px;
+	text-indent: 2em;
+}
+
+.second-right span {
+	padding: 5px;
+	margin: 0px;
+	text-indent: 2em;
+	color: blue;
+}
+
+.third {
+	margin: 0px auto;
+	text-align: center;
+	width: 1200px;
+	height: 80px;
+	color: blue;
+	font-size: 20px;
+	font-weight: bold;
+}
+
+.second-left {
+	padding: 0px;
+	background: limegreen;
+	opacity: 0.8;
+	float: left;
+}
+
+.second-left a {
+	color: yellow;
+	margin: 0px auto;
+	font-size: 26px;
+	text-align: center;
+	line-height: 90px;
+}
+
+.second-left table {
+	text-align: center;
+}
+
+a:link {
+	text-decoration: none;
+}
+
+a:hover {
+	text-decoration: none;
+	color: blue;
+}
